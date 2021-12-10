@@ -15,8 +15,10 @@ import '@openzeppelin/contracts-upgradeable/utils/CountersUpgradeable.sol';
 import '@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol';
 
 /**
- * @title ThreeSpace
- */
+ * @title ThreeSpace.
+ * @author ThreeSpace
+ * @notice This is the first version of ThreeSpace
+ **/
 contract ThreeSpace is
   Initializable,
   ERC721EnumerableUpgradeable,
